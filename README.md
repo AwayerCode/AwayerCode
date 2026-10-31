@@ -1,17 +1,9 @@
-## 你好，我是 Awayer 👋
+# 你好，我是 Awayer 👋
 
-独立开发者，坐标杭州 & 深圳。
+独立开发者。
 
-我关注的方向：
+我做产品，也开发工具。目前主要在探索 AI Agent 在软件开发中的应用，以及开发者与 Agent 的协作方式。
 
-- **AI Agent**：让 Agent 稳定地完成真实的软件工程任务
-- **Harness 工程**：用明确的约束、校验和反馈，让 Agent 的产出可验证
-- **AI Native 研发流程**：以 Agent 为核心重新设计开发、测试和交付
+正在开发 [Harn](https://github.com/AwayerCode/Harn)，一个面向 AI 编程 Agent 的工程工具，帮助 Agent 按照项目的架构约定编写和检查代码。
 
-### 在做的项目
-
-- [**Harn**](https://github.com/AwayerCode/Harn)：面向 AI 编程 Agent 的软件工程 Harness。用 YAML 定义架构，用 CLI 校验设计与实现，让 Agent 的代码改动遵循明确的模块边界与依赖规则。
-
-### 在哪里找到我
-
-- 博客：[awayercode.github.io](https://awayercode.github.io/)
+也会在[个人博客](https://awayercode.github.io/)记录实践中的思考与经验。
